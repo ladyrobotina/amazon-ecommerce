@@ -6,4 +6,8 @@ Amazon clone
 Building this app with intention of learning React and Firebase better .
 
 ## 📱 Screenshot
-![Tinder Clone](https://github.com/valerisvso/tinder-clone/blob/main/public/localhost_3000_chat_%2520Elon%2520Musk(iPhone%206_7_8)%20(2).png :height: 100px :width: 200 px :scale: 50 %)
+<div align="center">
+           <img width="45%" src="https://github.com/valerisvso/amazon-ecommerce/blob/main/localhost_3000_.png" alt="Home" title="Home"</img>
+           <img height="0" width="8px">
+           <img width="45%" src="https://github.com/valerisvso/amazon-ecommerce/blob/main/localhost_3000_%20(2).png" alt="Basket" title="Basket"></img>
+</div>
