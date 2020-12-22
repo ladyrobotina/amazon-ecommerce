@@ -45,16 +45,16 @@
 }
 
 .header_nav {
-  display: flex;
-  justify-content: space-evenly;
+  display: flex !important;
+  justify-content: space-evenly !important;
 }
 
 .header_option {
   display: flex;
-  flex-direction: column;
+  flex-direction: column !important;
   margin-left: 10px;
   margin-right: 10px;
-  color: white;
+  color: white !important;
 }
 
 .header_optionBascket {
