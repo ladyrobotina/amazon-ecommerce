@@ -13,3 +13,17 @@ Building this app with intention of learning React and Firebase better .
            <img height="0" width="8px">
            <img width="45%" src="https://github.com/valerisvso/amazon-ecommerce/blob/main/localhost_3000_.png" title="List screen"></img>
 </div>
+
+## 📚 Technical Details
+```
+Built entirely:
+- React.js
+- Firebase
+- Material UI
+```
+
+## ⚒ Deploy 
+👉 https://challenge-a0319.web.app/
+
+## 🙋 Code by me. 
+@valerisvso
